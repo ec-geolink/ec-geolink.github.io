@@ -1,4 +1,4 @@
 website
 =======
 
-GeoLink website code
+Content for the public Web site www.geolink.org
